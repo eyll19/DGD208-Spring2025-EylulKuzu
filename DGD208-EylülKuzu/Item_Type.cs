@@ -2,6 +2,6 @@ public enum ItemType
 {
     Toy,
     Soap,
-    Sleep mask,
+    Sleepmask,
     Food,
 }
